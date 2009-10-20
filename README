@@ -1,12 +1,9 @@
-*Top page*
+<!-- -*- coding: utf-8; mode: simple-hatena; indent-tabs-mode: nil -*- -->
 
-**Headlinea
+*各種記録
 
-Paragraph.
+**elisp
 
--List
---Nested list
-
-+Number list
---Nested number list
+:basename(1) 的なもの:file-name-nondirectory
+((毎度、使う段になって検索する。))
 
